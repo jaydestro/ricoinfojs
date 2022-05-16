@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "next": "9.3.5",
+    "next": "12.1.0",
     "nextjs": "0.0.3",
     "react": "16.13.1",
     "react-dom": "16.13.1"
